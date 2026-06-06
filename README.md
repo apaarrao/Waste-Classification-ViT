@@ -76,3 +76,18 @@ Preprocessing:
 
 https://www.kaggle.com/code/apaarrao/waste-classification
 
+
+## Results
+
+### Classification Report
+![Classification Report](classification_report.png)
+
+### Confusion Matrix
+![Confusion Matrix](confusion_matrix.png)
+
+### Attention Visualization
+![Attention Map](attention_map.png)
+
+### Sample Predictions
+![Sample Predictions](sample.png)
+
