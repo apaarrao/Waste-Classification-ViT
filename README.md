@@ -72,10 +72,6 @@ Preprocessing:
 
 ---
 
-## Kaggle Notebook
-
-https://www.kaggle.com/code/apaarrao/waste-classification
-
 
 ## Results
 
@@ -90,4 +86,20 @@ https://www.kaggle.com/code/apaarrao/waste-classification
 
 ### Sample Predictions
 ![Sample Predictions](sample.png)
+
+
+
+## Kaggle Notebook
+
+https://www.kaggle.com/code/apaarrao/waste-classification
+
+
+
+## Installation
+
+pip install -r requirements.txt
+
+## Run
+
+jupyter notebook waste-classification.ipynb
 
