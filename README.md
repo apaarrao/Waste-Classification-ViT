@@ -44,10 +44,10 @@ Preprocessing:
 
 | Metric | Score |
 |----------|----------|
-| Validation Accuracy | 97% |
-| Precision | 96% |
-| Recall | 97% |
-| F1 Score | 96% |
+| Accuracy | 93% |
+| Precision | 94% |
+| Recall | 93% |
+| F1 Score | 93% |
 
 ---
 
